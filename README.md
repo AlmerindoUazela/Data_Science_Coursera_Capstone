@@ -8,24 +8,4 @@ One of the current concerns of the Seattle Department of Transportation is to fi
 This project intends to use these records to analyze all the collisions recorded from 2003 to October 2020 in order to build a Machine Learning Model that allows the severity of an accident to be classified by its characteristics.
 </p>
 
-<p> To achieve the objective, the project applies the CRISP-DM methodology, which is a model focused on communication, flexibility and iteration at each stage of the project to keep it on track. The CRISP-DM methodology contains 6 stages that are:
-<ul>  
- <li>
-    <b>Business Understanding</b>
-</li>  
- <li>
-    <b>Data Understanding</b>
- </li>  
- <li>
-     <b>Data Preparation</b>
- </li>  
- <li>
-    <b>Modeling</b>
- </li>  
- <li>
-    <b>Evaluation</b>
- </li> 
- <li>
-    <b>Deployment</b>
- </li> 
-</ul></p>
+<p> To achieve the objective, the project applies data science concepts such as Machine Learning and Data Visualization under the CRISP-DM methodology, which is a model focused on communication, flexibility and iteration at each stage of the project to keep it on track right. The project was designed and structured based on 6 stages of the CRISP-DM methodology namely,Business understanding, Data understanding, Data preparation, Modeling, Evaluation and Implementation.</p>
