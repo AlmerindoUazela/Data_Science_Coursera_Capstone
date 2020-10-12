@@ -19,9 +19,8 @@ This project intends to use these records to analyze all the collisions recorded
  </p>
 <p> The data set metadata can be found at <a href="https://www.seattle.gov/Documents/Departments/SDOT/GIS/Collisions_OD.pdf" target="_blank"> Department of Transportation Seattle</a>.</p>
 
-<p>The data set contains 221,389 records and 40 fields, the fata is balanced and contains categorical and numerical values.
-The data set has many non-useless columns, such as the primary key, some other codes that represent relationships from another external data set.
+<p>The data set contains 221,389 records and 40 fields, the data contains categorical and continuous values and has some few columns with non-useless for our goal, such as the primary key, some other codes that represent relationships from another external data set.
 </p>
 
-<p>The model will be built with the SEVERITYCODE column as target, but during the analysis and visualization section of the independent variables, the SEVERITYDESC column will be used a lot, which is totally the first, but more descriptive.
+<p>The model will be built with the SEVERITYCODE column as target, but during the analysis and visualization section of the independent variables, the SEVERITYDESC column will be used a lot, which is totally the same, but more descriptive.
 </p>
