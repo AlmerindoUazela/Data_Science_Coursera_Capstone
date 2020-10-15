@@ -2,14 +2,19 @@
 <p> This project is part of the IBM Data Science Professional Certification provided by Coursera and its main objective is to apply data science concepts to analyze a real-world scenario. </p>
 
 # 1.Introduction
-<p>
-One of the current concerns of the Seattle Department of Transportation (SDT) is to find solutions that can minimize the number of car accidents as well as fatalities, injuries and damages due to traffic accidents, in this context, all relevant information of accidents occurrences is recorded and maintained by the department for the access of all researchers. This data is necessary for identifying the locations and causes of crashes, for planning and implementing countermeasures, for operational management and control, and for evaluating highway safety programs and improvements.
-</p>
+<p>One of the current concerns of the Seattle Department of Transportation (SDT) is to find
+solutions that can minimize the number of traffic accidents, as well as deaths, injuries and
+damage from traffic accidents, in this context, all relevant information about the occurrence of
+accidents are registered and maintained by the department for access by all researchers. This
+data is necessary for the planning and implementation of countermeasures, operational control
+and for evaluating road safety programs and improvements.</p>
 
-## 1.1.Problem
-</p>
-The problem is that accidents have a different severity and implementation of countermeasures must be able to prioritize the implementation of solutions based on this. SDT classifies each of the registered collision with one of four categories, namely, Property Damage Only Collision, Injury Collision, Serious Injury Colision and Fatality Collision. This project intends to use these records to analyze all the collisions registered since 2004, in order to build a Machine Learning Model that will make it possible to classify the severity of a new collisions based on its characteristics.
-</p>
+<p>Accidents have different severities and the implementation of countermeasures must be able
+to take this aspect into account in order to prioritize their projects, therefore, the process of
+classifying the severity of accidents must be carried out as accurately as possible. This project
+intends to analyze all collisions registered since 2004, in order to build a Machine Learning
+Model to predict the classification of the severity of new accidents based on their characteristics
+with 100% accuracy</p>
 
 ## 1.2.Interest
 <p>
